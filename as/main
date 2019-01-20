@@ -1,5 +1,5 @@
 {
-  http_ip:47.91.165.174
-  http_port:52009
-  ads_switcher:false
+  "http_ip":"47.91.165.174"
+  "http_port":52009
+  "ads_switcher":false
 }
