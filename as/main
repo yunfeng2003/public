@@ -1,4 +1,5 @@
 {
-  main_http_ip:47.91.165.174
-  main_http_port:52009
+  http_ip:47.91.165.174
+  http_port:52009
+  ads_switcher:false
 }
